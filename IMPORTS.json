@@ -1,0 +1,37 @@
+{
+  "formatVersion": 1,
+  "projects": [
+    {
+      "name": "wealth-planning-calculator",
+      "path": "projects/wealth-planning-calculator",
+      "source": "https://github.com/john-stromberg/wealth-planning-calculator",
+      "branch": "master",
+      "commit": "fd4d153808343189c302a0e9d186d6d8643bcff0",
+      "tree": "eedcdc0a2f0eae3a32c2781ee747e98782930918"
+    },
+    {
+      "name": "cashflow-optimizer",
+      "path": "projects/cashflow-optimizer",
+      "source": "https://github.com/john-stromberg/cashflow-optimizer",
+      "branch": "master",
+      "commit": "f7a92e25bc08754dd1914eaaacb311ac487208a5",
+      "tree": "7ef6421c006dccf856de2d4d2c7da5bb2c3dbf7a"
+    },
+    {
+      "name": "client-wealth-dashboard",
+      "path": "projects/client-wealth-dashboard",
+      "source": "https://github.com/john-stromberg/client-wealth-dashboard",
+      "branch": "master",
+      "commit": "2a1e5a84804f7efc7faeee425726e6984ea85d6e",
+      "tree": "ec040a1114d2a18c7ce4e62363f26de0a642cb77"
+    },
+    {
+      "name": "financial-data-pipeline",
+      "path": "projects/financial-data-pipeline",
+      "source": "https://github.com/john-stromberg/financial-data-pipeline",
+      "branch": "master",
+      "commit": "655abc298c4b260cd8be586c67b3d6cb1e7899bf",
+      "tree": "4eae6b6240e77b5bcb9f403ee2e367eeb787bbec"
+    }
+  ]
+}
